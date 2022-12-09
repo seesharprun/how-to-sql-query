@@ -7,5 +7,12 @@
 	"workspaceFolder": "/workspace",
 	"extensions": [
 		"ms-mssql.mssql"
-	]
+	],
+	"customizations": {
+		"codespaces": {
+			"openFiles": [
+				"readme.md"
+			]
+		}
+	}
 }
