@@ -1,0 +1,11 @@
+{
+	"name": "Learn T-SQL",
+	"dockerComposeFile": [
+		"docker-compose.yml"
+	],
+	"service": "core",
+	"workspaceFolder": "/workspace",
+	"extensions": [
+		"ms-mssql.mssql"
+	]
+}
